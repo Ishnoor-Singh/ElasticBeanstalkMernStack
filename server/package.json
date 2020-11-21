@@ -1,0 +1,18 @@
+{
+  "name": "backendTraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Design-Create-Solar/backendTraining.git",
+  "author": "Ishnoor-Singh <ishnoors@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}
